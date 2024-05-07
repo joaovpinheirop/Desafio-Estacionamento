@@ -1,0 +1,14 @@
+C:\Users\joaov\Desktop\.Net DIO\Desafio-Estacionamento\bin\Debug\net8.0\Desafio-Estacionamento.exe
+C:\Users\joaov\Desktop\.Net DIO\Desafio-Estacionamento\bin\Debug\net8.0\Desafio-Estacionamento.deps.json
+C:\Users\joaov\Desktop\.Net DIO\Desafio-Estacionamento\bin\Debug\net8.0\Desafio-Estacionamento.runtimeconfig.json
+C:\Users\joaov\Desktop\.Net DIO\Desafio-Estacionamento\bin\Debug\net8.0\Desafio-Estacionamento.dll
+C:\Users\joaov\Desktop\.Net DIO\Desafio-Estacionamento\bin\Debug\net8.0\Desafio-Estacionamento.pdb
+C:\Users\joaov\Desktop\.Net DIO\Desafio-Estacionamento\obj\Debug\net8.0\Desafio-Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\.Net DIO\Desafio-Estacionamento\obj\Debug\net8.0\Desafio-Estacionamento.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\.Net DIO\Desafio-Estacionamento\obj\Debug\net8.0\Desafio-Estacionamento.AssemblyInfo.cs
+C:\Users\joaov\Desktop\.Net DIO\Desafio-Estacionamento\obj\Debug\net8.0\Desafio-Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\.Net DIO\Desafio-Estacionamento\obj\Debug\net8.0\Desafio-Estacionamento.dll
+C:\Users\joaov\Desktop\.Net DIO\Desafio-Estacionamento\obj\Debug\net8.0\refint\Desafio-Estacionamento.dll
+C:\Users\joaov\Desktop\.Net DIO\Desafio-Estacionamento\obj\Debug\net8.0\Desafio-Estacionamento.pdb
+C:\Users\joaov\Desktop\.Net DIO\Desafio-Estacionamento\obj\Debug\net8.0\Desafio-Estacionamento.genruntimeconfig.cache
+C:\Users\joaov\Desktop\.Net DIO\Desafio-Estacionamento\obj\Debug\net8.0\ref\Desafio-Estacionamento.dll
